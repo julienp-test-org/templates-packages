@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+package-lock.json
+yarn.lock
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/

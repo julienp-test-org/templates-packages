@@ -1,0 +1,5 @@
+runtime: nodejs
+template:
+  description: A TypeScript Pulumi component package
+  quickstart: |
+    Edit index.ts to define your component.

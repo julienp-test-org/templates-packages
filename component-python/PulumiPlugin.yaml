@@ -1,0 +1,8 @@
+runtime:
+  name: python
+  options:
+    toolchain: uv
+template:
+  description: A Python Pulumi component package
+  quickstart: |
+    Edit component/component.py to define your component.
